@@ -1,0 +1,6 @@
+venv/
+screenshots/
+__pycache__/
+*.pdf
+*.png
+.env
